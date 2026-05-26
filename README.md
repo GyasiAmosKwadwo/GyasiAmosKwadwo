@@ -1,90 +1,127 @@
-<h1 align="center">👋 Hello, I'm Gyasi Amos Kwadwo</h1>
-<h3 align="center">Junior Backend Engineer | Cybersecurity Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Gyasi Amos Kwadwo</h1>
+<h3 align="center">
+Backend Engineering Student • Cybersecurity Enthusiast • Problem Solver
+</h3>
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-I’m a **Junior Backend Engineer** and **Cybersecurity Enthusiast** with a deep passion for building secure, scalable, and intelligent systems.  
-Over the years, I’ve designed and implemented software solutions that merge **clean architecture**, **efficient data modeling**, and **robust security principles** — helping organizations and startups alike to deliver reliable digital products.
+I'm a backend engineering student passionate about building secure, scalable, and practical software solutions.
 
-I thrive at the intersection of **software engineering and cybersecurity**, constantly evolving to meet the demands of modern digital transformation.  
-My approach? Simple: *Think deeply, design smartly, build securely.*
+My interests sit at the intersection of:
+- ⚙️ Backend Development
+- 🔐 Cybersecurity
+- 🧠 Software Architecture
+- 🗄️ Database Design
 
----
+I enjoy turning ideas into real systems using clean architecture, efficient APIs, and solid database structures. Beyond writing code, I’m constantly learning how modern systems work under the hood — especially from a security and performance perspective.
 
-### ⚙️ Core Expertise
-
-- 🧩 **Backend Development:** Django, Django REST Framework (DRF), FastAPI, Flask  
-- 🧠 **Database Design:** MySQL, PostgreSQL, SQLite, Redis  
-- 🧰 **API Architecture:** REST, Authentication (JWT/OAuth2), Rate Limiting  
-- ☁️ **Cloud & Deployment:** AWS | Render | Docker | CI/CD Pipelines | Nginx  
-- 🔐 **Cybersecurity:** Penetration Testing, Network Analysis, OWASP Top 10  
-- 💡 **Programming Languages:** Python, JavaScript, SQL, Bash  
+Currently, I’m focused on growing as a backend engineer while deepening my knowledge in cybersecurity and secure software development.
 
 ---
 
-### 🧠 My Philosophy
+## 🚀 Current Projects
 
-> "Code should not just work — it should **endure**.  
-> Security, performance, and scalability are not add-ons; they are the foundation."
+### 🔹 De Bliss Restaurant Management System
+A restaurant and bar management system being developed with my team, **Zenith Coders**.
 
----
-
-### 🧩 Highlighted Projects
-
-#### 🔹 **De Bliss Restaurant Management System**  
-Comprehensive restaurant and bar management system built for De Bliss Restaurant.  
-🛠️ *Stack:* Django, REST API, MySQL  
-👥 *Team:* Zenith Coders
-
-#### 🔹 **CyberScan**  
-Lightweight network vulnerability scanner designed for educational penetration testing.  
-🛠️ *Stack:* Python, Sockets, Nmap, CLI Interface  
+**Tech Stack:** Django, DRF, MySQL
 
 ---
 
-### ⚡ Current Focus
+### 🔹 ReloTech
+A smart rental and relocation platform designed for the Ghanaian market.
 
-- 🚀 Scaling **ReloTech** for production readiness  
-- 🔐 Strengthening my penetration testing and digital forensics skills  
-- 🧠 Mentoring young developers on **secure software development**  
-- 🧩 Experimenting with **AI-driven security analysis**
+Features include:
+- Property listings
+- Tenant onboarding
+- Relocation logistics
+- Future integration for digital payments and tax tracking
 
----
-
-### 🧰 Tech Toolbox
-
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Backend** | Django, DRF, FastAPI, Flask |
-| **Frontend** | HTML5, TailwindCSS, JavaScript |
-| **Databases** | MySQL, PostgreSQL, SQLite, Redis |
-| **Security Tools** | Wireshark, Burp Suite, Nmap, Metasploit |
-| **Cloud & DevOps** | AWS, Render, Docker, GitHub Actions |
-| **Others** | Git, Postman, Linux, VS Code |
+**Focus:** Scalable backend architecture and real-world problem solving.
 
 ---
 
+## ⚙️ Tech Stack
+
+### 💻 Backend
+- Django
+- Django REST Framework
+- Flask
+- FastAPI
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- SQLite
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TailwindCSS
+
+### 🔐 Cybersecurity & Tools
+- Wireshark
+- Nmap
+- Burp Suite
+- Linux
+
+### ⚡ Other Tools
+- Git & GitHub
+- Postman
+- Docker
+- VS Code
+
 ---
 
-### 💬 Let's Connect
+## 📚 Currently Learning
+
+- Advanced Backend Architecture
+- API Security
+- Penetration Testing
+- Data Structures & Algorithms
+- Cloud & DevOps Fundamentals
+
+---
+
+## 🧠 Philosophy
+
+> “Good software is not only functional — it should be secure, maintainable, and scalable.”
+
+---
+
+## 📈 GitHub Goals
+
+- Build impactful real-world projects
+- Contribute to open source
+- Improve secure coding practices
+- Share knowledge and learn publicly
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amos-gyasi-4877b028b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-  <a href="mailto:gyasiamoskwadwo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amos-gyasi-4877b028b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> “When I’m not writing code, I'm designing smart system architecture or I’m studying how to make systems bulletproof — because in cybersecurity, one small mistake can bring down a castle.”
+I genuinely enjoy designing system architecture almost as much as writing code.  
+If I’m not coding, I’m probably thinking about databases, APIs, scalability, or cybersecurity.
 
 ---
 
 <p align="center">
-  <i>⭐ If my work inspires you, follow or star a repo to stay connected!</i><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=brightgreen" />
+  <i>Thanks for visiting my profile ⭐</i>
 </p>
