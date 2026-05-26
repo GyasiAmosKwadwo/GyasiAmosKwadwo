@@ -128,20 +128,6 @@ class GyasiAmosKwadwo:
 
 ---
 
-## `> git log --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=ff6c37&currStreakLabel=00ff9c)
-
-</div>
-
----
-
 ## `> cat goals.md`
 
 ```diff
