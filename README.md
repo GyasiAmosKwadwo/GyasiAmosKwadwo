@@ -1,16 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║         INITIALIZING PROFILE...  ACCESS GRANTED      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-# Gyasi Amos Kwadwo
-
-**`Backend Engineer · Cybersecurity Enthusiast · System Architect`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+secure%2C+scalable+backends;Thinking+in+systems+%26+APIs;Securing+the+stack+from+the+ground+up)](https://git.io/typing-svg)
+<img src="./banner.svg" alt="Gyasi Amos Kwadwo — Backend Engineer, Cybersecurity Enthusiast" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00ff9c&label=VISITORS" />
 
